@@ -1,3 +1,3 @@
 process: process.c
-	gcc -o main process.c 
+	gcc -o process process.c 
 
